@@ -1,4 +1,4 @@
-# Task0_20BEC0191
+# VITMAS_Task0_20BEC0191
 # List of Github Commands
 * ### `git config`
 These commands are used for configuring user information. It forms the setup
